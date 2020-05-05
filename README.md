@@ -26,13 +26,13 @@ Modify the given FFT source code to accelerate the FFT.
 
 ### Restriction
 
-By default, you will work on [gpgpu-sim][[https://github.com/gpgpu-sim/gpgpu-sim_distribution] 4.0 version.  You can change the version of the simulator or even work on real GPU. please elaborate on what hardware setting the program executes. 
+By default, you will work on [gpgpu-sim][(https://github.com/gpgpu-sim/gpgpu-sim_distribution) 4.0 version.  You can change the version of the simulator or even work on real GPU. please elaborate on what hardware setting the program executes. 
 
 > 만약에 실제 GPU를 쓰거나 simulator 버전 등을 바꾼다거나 fork를 쓴다거나 하면 비교하는 방법을 정해서 설명해야 될 것 같습니다. Restriction 수업 때 들은 대로 적어보았는데 프로젝트 평가에 통일성이 필요하다고 생각하시면 조금 바꾸셔도 될 것 같습니다.
 
 ### Simulator resources
 
-The source code of `gpgpu-sim` can be downloaded from [https://github.com/gpgpu-sim/gpgpu-sim_distribution][https://github.com/gpgpu-sim/gpgpu-sim_distribution] using the following command. Note that you should checkout your branch to `dev` after cloning this repository. Do not work on `master` branch.
+The source code of `gpgpu-sim` can be downloaded from [https://github.com/gpgpu-sim/gpgpu-sim_distribution](https://github.com/gpgpu-sim/gpgpu-sim_distribution) using the following command. Note that you should checkout your branch to `dev` after cloning this repository. Do not work on `master` branch.
 
 ```shell
 git clone https://github.com/gpgpu-sim/gpgpu-sim_distribution
@@ -41,9 +41,9 @@ git checkout dev
 
 For design and implementation of `gpgpu-sum`, please refer to the these links.
 
-* [webpage][http://gpgpu-sim.org/]
+* [webpage](http://gpgpu-sim.org/)
 
-* [manual][http://gpgpu-sim.org/manual/index.php/Main_Page]
+* [manual](http://gpgpu-sim.org/manual/index.php/Main_Page)
 
 ### Setup gpgpu-sim
 
@@ -77,7 +77,7 @@ Have fun !
 
 [Jungho Ahn](mailto:gajh@scale.snu.ac.kr)
 
-[Scalable Computer Architecture Laboratory][http://scale.snu.ac.kr/]
+[Scalable Computer Architecture Laboratory](http://scale.snu.ac.kr/)
 
 [Graduate School of Convergence Science and Technology](https://convergence.snu.ac.kr/)  
 
