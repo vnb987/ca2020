@@ -22,12 +22,6 @@ Modify the given FFT source code to accelerate the FFT. The second step is not m
 
 'ExecFft()' function in src/ffthelper.cu, where the radix-2 colley tukey algorithm is implemented as a reference code. You are asked to change the function to optimize for the GPU architecture, using the gpgpu-sim simulator.
 
-```cuda
-//상표가 짠 cooley tukey code
-```
-
->  cooley tukey 코드 설명
-
 ##### To do
 
 - Make your **FFT** / **iFFT** code that performs better (leading to short execution time).
